@@ -1,10 +1,12 @@
 import './App.css';
+import { BrowserRouter } from 'react-router-dom';
+import Navigation from './navigation/Navigation'
 
 function App() {
   return (
-    <div>
-      SpaceX Launches
-    </div>
+    <BrowserRouter>
+      <Navigation />
+    </BrowserRouter>
   );
 }
 
