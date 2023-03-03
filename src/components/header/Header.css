@@ -1,0 +1,29 @@
+.title-center-launch-page {
+    height: 180px;
+    background-color: #000;
+    display: flex;
+    justify-content: center;
+    text-align: center;
+    color: #fff;
+    border-bottom: 1px solid #5D5D62;
+}
+
+.spacex-logo-launch-page {
+    width: 300px;
+    height: 36.93px;
+    margin-top: 60px;
+    margin-bottom: 15px;
+}
+
+.title-launch-page {
+    width: 371px;
+    height: 30px;
+    font-size: 14px;
+    font-weight: 400;
+    font-style: normal;
+}
+
+.background-title-launch-page {
+    font-weight: 400;
+    color: #fffdfd;
+}

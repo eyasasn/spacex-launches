@@ -1,0 +1,46 @@
+.background {
+    min-height: 100vh;
+    background-color: #000;
+    color: #fff;
+}
+
+.title-center {
+    display: flex;
+    justify-content: center;
+    text-align: center;
+}
+
+.background-title {
+    font-weight: 400;
+    color: #fffdfd;
+}
+
+.spacex-logo {
+    width: 300px;
+    height: 36.93px;
+    margin-top: 60px;
+    margin-bottom: 15px;
+}
+
+.title {
+    width: 371px;
+    height: 30px;
+    font-size: 14px;
+    font-weight: 400;
+    font-style: normal;
+}
+
+.footer {
+    position: fixed;
+    bottom: 0;
+    width: 100%;
+}
+
+.all-cards {
+    display: flex;
+    flex-wrap: wrap;
+    gap: 15px;
+    justify-content: center;
+    margin-top: 40px;
+    margin-bottom: 100px
+}

@@ -1,0 +1,38 @@
+.card {
+    height: 250px;
+    width: 280px;
+    border-radius: 14px;
+    background-color: #1F1F20;
+    color: #fff;
+}
+
+.card:hover {
+    background-color: #545464;
+}
+
+.card-title {
+
+    text-align: center;
+}
+
+.card-img-top {
+    height: 100px;
+    width: 100px;
+}
+
+.card-body {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+
+.card-subtitle {
+    font-size: 12px;
+    margin-bottom: 5px;
+}
+
+.subtitles {
+    padding-top: 18px;
+    text-align: center;
+}

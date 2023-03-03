@@ -1,0 +1,11 @@
+.background-launch-page {
+    min-height: 100vh;
+    background-color: #000;
+    color: #fff;
+}
+
+.footer-launch-page {
+    position: fixed;
+    bottom: 0;
+    width: 100%;
+}
