@@ -1,0 +1,46 @@
+.mini-logo {
+    height: 50px;
+    width: 50px;
+}
+
+.launch-details-titles {
+    font-size: 14px;
+    font-weight: 700;
+}
+
+.launch-details-sub {
+    font-size: 14px;
+    font-weight: 400;
+}
+
+.detail-title {
+
+    font-size: 20px;
+    font-weight: 700;
+
+}
+
+.detail-text {
+
+    margin-bottom: 100px;
+    font-size: 14px;
+    font-weight: 400;
+}
+
+.line {
+    border-top: 1px solid #5D5D62;
+}
+
+.button-color {
+    background-color: #414143;
+    color: white;
+}
+
+.button-color:hover {
+    background-color: #5D5D62;
+    color: white;
+}
+
+.link:active {
+    color: white;
+}

@@ -1,12 +1,6 @@
-.footer-container {
-    height: 100px;
-    width: 100%;
-    border-top: 1px solid #5D5D62;
-    display: flex;
-    justify-content: center;
-    background-color: #000;
-    align-items: center;
-    bottom: 0px;
+.border-line-footer {
+    border-top:
+        1px solid #5D5D62
 }
 
 .footer-text {

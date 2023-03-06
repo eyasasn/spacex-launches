@@ -2,7 +2,7 @@
     height: 250px;
     width: 280px;
     border-radius: 14px;
-    background-color: #1F1F20;
+    background-color: #414143;
     color: #fff;
 }
 
@@ -27,12 +27,17 @@
     align-items: center;
 }
 
-.card-subtitle {
+.card-subtitle-launch {
+    width: 150px;
     font-size: 12px;
-    margin-bottom: 5px;
+    text-align: center;
+
 }
 
-.subtitles {
-    padding-top: 18px;
-    text-align: center;
+.subtitles-launch {
+    align-items: center;
+    margin-top: 18px;
+
+
+
 }
