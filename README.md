@@ -1,5 +1,5 @@
 # SpaceX Launches 
-
+In this project, the necessary data is obtained from the Spacex database with the API Call procedure and cards are listed with the map function.  Each card seen on the homepage will direct you to a different Spacex rocket launch details page.
 
 <img width="1272" alt="Screen Shot 2023-03-16 at 15 39 30" src="https://user-images.githubusercontent.com/82405060/225619863-a0eb1d7a-ed4e-42e6-b0bb-fe9a4d52ae6a.png">
  Create React App
